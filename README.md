@@ -12,14 +12,6 @@
 
 - 📫 How to reach me **wirayuda233@gmail.com**
 
-<div align="center"> <a href="https://github.com/wirayuda299" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:wirayuda233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&layout=compact&theme=radical" style="width:100%" /></div>  
-
-
 
 ### languages and tools  
 <div align="center">  
@@ -44,6 +36,14 @@
 </div>  
 
 ![]()  
+
+<div align="center"> <a href="https://github.com/wirayuda299" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:wirayuda233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&layout=compact&theme=radical" style="width:100%" /></div>  
+
   
 
 <h3 align="left">Stars</h3>
