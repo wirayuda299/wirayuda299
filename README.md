@@ -1,13 +1,10 @@
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
-<br/>
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=28&pause=1000&color=B115F7&width=808&height=61&lines=Hi+there...+%F0%9F%91%8B%2C++I+am+Wirayuda;I'm+passionate+on+Frontend+development)](https://git.io/typing-svg)
-
-<div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=28&duration=3000&pause=100&color=B115F7&width=508&height=61&lines=Hi+there+%F0%9F%91%8B%2C++I+am+Wirayuda;I'm+passionate+on+Frontend+development)](https://git.io/typing-svg)
 
 - 🔭 I’m self taugh Developer
 
@@ -17,11 +14,11 @@
 
 - 💬 Ask me about **html, css,js, reactjs, nextjs, typescript**
 
-- 📫 How to reach me **wirayuda233@gmail.com**
+- 📫 How to reach me **<wirayuda233@gmail.com>**
 
 <br/>
 
-### languages and tools
+### Languages and tools
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -38,33 +35,58 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>    
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-![]()
+  <div>
+    <img align="center" height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&locale=en&theme=radical" alt="wirayuda299" />
+  </div>
 
-<div align="center">
-
-&nbsp;
-<a href="https://www.linkedin.com/in/wira-yuda29" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://www.facebook.com/wirayuda.wirayuda.9235/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank">
-</a>
-<a href="https://www.instagram.com/wiiiraaaaa_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
-</a>
-<a href = "mailto:wirayuda233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<h3 align="left">Github statistic </h3>
-
-<div align="left">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&show_icons=true&layout=compact&theme=radical"  alt="wirayuda299" />
+<div class="grid-container">
+  <div class="grid-item">
+   <img  width="100%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wirayuda299&show_icons=true&locale=en&theme=radical"  />
+  </div>
+  <div class="grid-item">
+    <img  width="100%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wirayuda299&show_icons=true&locale=en&theme=radical"  />
+  </div>
+  <div class="grid-item">
+    <img  width="100%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wirayuda299&show_icons=true&locale=en&theme=radical"  />
+  </div>
 </div>
 
-<h3 align="left">Most used languages</h3>
+<style>
+  .grid-container {
+    display: grid;
+    justify-content:center;
+    grid-gap: 5px;
+  }
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirayuda299&show_icons=true&layout=compact&theme=radical" alt=wirayuda299 />
+  .grid-item {
+    padding: 10px;
+  }
+
+  @media screen and (min-width: 600px) {
+    /*Three-column layout for larger screens*/
+    .grid-container {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media screen and (max-width: 599px) {
+    /*One-column layout for smaller screens*/
+    .grid-container {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<br/>
+<br/>
+<br/>
+
+<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&theme=radical" alt="wirayuda299" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
