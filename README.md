@@ -5,7 +5,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=28&duration=3000&pause=100&color=B115F7&width=10008&height=61&lines=Hi+there+%F0%9F%91%8B%2C++I+am+Wirayuda;I'm+passionate+on+Frontend+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=28&duration=3000&pause=100&color=B115F7&width=900&height=61&lines=Hi+there+%F0%9F%91%8B%2C++I+am+Wirayuda;I'm+passionate+on+Frontend+development)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Nextjs**
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJs**
