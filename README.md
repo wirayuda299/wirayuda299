@@ -16,11 +16,8 @@
 <a href = "mailto:wirayuda233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&theme=2077&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&layout=compact&theme=radical" /></div>  
 
 
 
@@ -48,8 +45,6 @@
 
 ![]()  
   
-
-<br/
 
 <h3 align="left">Stars</h3>
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirayuda299&show_icons=true&layout=compact&theme=radical" alt=wirayuda299 /></p>
