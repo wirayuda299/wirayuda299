@@ -1,7 +1,13 @@
-<div>
-<img style=" width:100%; border-radius:20px; object-fit:cover; object-position:center" src="https://scontent.fdps5-1.fna.fbcdn.net/v/t1.6435-9/56158296_389747035209669_5435878774967107584_n.jpg?_nc_cat=100&cb=99be929b-3346023f&ccb=1-7&_nc_sid=84a396&_nc_ohc=HyIkLLbs8cMAX9PIfb7&_nc_ht=scontent.fdps5-1.fna&oh=00_AfBeEmvR5TURJZvnCXXMG4o3n4-N7HgKnyW2kWKreDiV0w&oe=64E6EF92" style="width:100%; border-radius:20px; object-fit:contain"/>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+<br/>
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&multiline=true&width=700&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Wirayuda;I'm+passionate+on+Frontend+development" alt="Typing SVG" /></h1>
+###
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=28&pause=1000&color=B115F7&width=508&height=61&lines=Hi+there...+%F0%9F%91%8B%2C++I+am+Wirayuda;I'm+passionate+on+Frontend+development)](https://git.io/typing-svg)
+
+<div>
 
 - 🔭 I’m self taugh Developer
 
@@ -50,14 +56,15 @@
 </a>
 <a href = "mailto:wirayuda233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-## Github Statistics
+<h3 align="left">Github statistic </h3>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirayuda299&show_icons=true&layout=compact&theme=radical" style="max-width:500px; width:100%; margin:5px" alt=wirayuda299 />
+<div align="left">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&show_icons=true&layout=compact&theme=radical"  alt="wirayuda299" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&layout=compact&theme=radical" style="max-width:500px; width:100%; margin:5px" alt="wirayuda299" />
+<h3 align="left">Most used languages</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&show_icons=true&layout=compact&theme=radical" style="max-width:500px; width:100%; margin:5px"  alt="wirayuda299" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirayuda299&show_icons=true&layout=compact&theme=radical" alt=wirayuda299 />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
