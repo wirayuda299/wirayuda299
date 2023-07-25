@@ -67,14 +67,14 @@
     padding: 10px;
   }
 
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 500px) {
     /*Three-column layout for larger screens*/
     .grid-container {
       grid-template-columns: repeat(3, 1fr);
     }
   }
 
-  @media screen and (max-width: 599px) {
+  @media screen and (max-width: 499px) {
     /*One-column layout for smaller screens*/
     .grid-container {
       grid-template-columns: 1fr;
