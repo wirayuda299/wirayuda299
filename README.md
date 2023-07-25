@@ -20,7 +20,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=wirayuda299&theme=2077&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
 
 
