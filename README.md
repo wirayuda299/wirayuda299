@@ -44,7 +44,7 @@
     <img align="center" height="100%" width="100%" src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&locale=en&theme=radical" alt="wirayuda299" />
   </div>
 
-<div class="grid-container">
+<div class="grid-container" style="display:grid; grid-template-columns:repeat(auto-fit, 200px); margin:20px; justify-content:center; gap:5px">
   <div class="grid-item">
    <img  width="100%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wirayuda299&show_icons=true&locale=en&theme=radical"  />
   </div>
@@ -55,36 +55,6 @@
     <img  width="100%" height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wirayuda299&show_icons=true&locale=en&theme=radical"  />
   </div>
 </div>
-
-<style>
-  .grid-container {
-    display: grid;
-    justify-content:center;
-    grid-gap: 5px;
-  }
-
-  .grid-item {
-    padding: 10px;
-  }
-
-  @media screen and (min-width: 500px) {
-    /*Three-column layout for larger screens*/
-    .grid-container {
-      grid-template-columns: repeat(3, 1fr);
-    }
-  }
-
-  @media screen and (max-width: 499px) {
-    /*One-column layout for smaller screens*/
-    .grid-container {
-      grid-template-columns: 1fr;
-    }
-  }
-</style>
-
-<br/>
-<br/>
-<br/>
 
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&theme=radical" alt="wirayuda299" /></p>
 
