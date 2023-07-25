@@ -12,8 +12,8 @@
 
 - 📫 How to reach me **wirayuda233@gmail.com**
 
-- ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+  <img src="![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+"/>
 
 ### languages and tools  
 <div align="center">  
