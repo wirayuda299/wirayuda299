@@ -37,7 +37,8 @@
 
 ![]()  
 
-<div align="center"> <a href="https://github.com/wirayuda299" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div align="center"> 
+ <a href="https://www.linkedin.com/in/wira-yuda29" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000](https://i.stack.imgur.com/gVE0j.png" target="_blank"></a>
 <a href = "mailto:wirayuda233@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
