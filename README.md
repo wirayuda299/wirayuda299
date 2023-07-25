@@ -7,9 +7,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&weight=900&size=28&duration=3000&pause=100&color=B115F7&width=508&height=61&lines=Hi+there+%F0%9F%91%8B%2C++I+am+Wirayuda;I'm+passionate+on+Frontend+development)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Nextjs**
-- 💬 Ask me about **HTML, CSS, Typescript, ReactJs**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJs**
 - 📫 How to reach me **<wirayuda233@gmail.com>**
-- 👨‍💻 All of my projects are available at **<https://wirayuda.vercel.app>**
+- 👨‍💻 All of my projects are available at **<https://wiayuda.vercel.app>**
 
 <div> <a href="https://www.linkedin.com/in/wira-yuda29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/wirayuda299" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -41,8 +41,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirayuda299&layout=compact&theme=radical" alt=wirayuda299 />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&locale=en&theme=radical" alt="wirayuda299" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&theme=radical" alt="wirayuda299" /></p>
@@ -55,6 +53,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wirayuda299&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wirayuda299&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wirayuda299&theme=2077" height="180em" />
-
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wirayuda299&theme=2077" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=wirayuda299&theme=tokyo-night"/>
