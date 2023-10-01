@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Nextjs**
 - 💬 Ask me about **HTML, CSS, Javascript, ReactJs**
 - 📫 How to reach me **<wirayuda233@gmail.com>**
-- 👨‍💻 All of my projects are available at **<https://wiayuda.vercel.app>**
+- 👨‍💻 All of my projects are available at **<https://wirayuda.vercel.app>**
 
 <div> <a href="https://www.linkedin.com/in/wira-yuda29" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/wirayuda299" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
