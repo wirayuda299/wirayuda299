@@ -82,7 +82,6 @@ I'm a developer specializing in **Frontend technologies**, with a focus on creat
 ### 📊 GitHub Stats & Activity
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wirayuda299&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&locale=en&bg_color=1A1B27&title_color=79ff97&icon_color=79ff97" alt="Wirayuda's GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&theme=tokyonight&hide_border=true&background=1A1B27&stroke=79ff97&ring=79ff97&fire=ffac4d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" alt="Wirayuda's GitHub Streak" />
 </p>
 </div>
