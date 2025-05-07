@@ -84,4 +84,7 @@ I'm a developer specializing in **Frontend technologies**, with a focus on creat
 <p>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wirayuda299&theme=tokyonight&hide_border=true&background=1A1B27&stroke=79ff97&ring=79ff97&fire=ffac4d&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" alt="Wirayuda's GitHub Streak" />
 </p>
+
+![Snake animation](https://github.com/matt-ftw/matt-ftw/blob/output/github-contribution-grid-snake-dark.svg)
+
 </div>
